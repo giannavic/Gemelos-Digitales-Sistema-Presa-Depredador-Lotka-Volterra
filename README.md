@@ -23,5 +23,3 @@ Posgrado en Ciencias de la Ingeniería [PCI] y Departamento de Ingeniería Eléc
 
 ## Lecturas
 [1] Paul. A. Valle, Syllabus de Biomatemáticas para la asignatura de Gemelos Digitales, Tecnológico Nacional de México/IT Tijuana, Tijuana, B.C., México, 2025. Permalink: https://www.dropbox.com/s/6yf9afxzih9y458/Biomatematicas.pdf
-
-[2] González‐Ayón, M. A., Sañudo‐Barajas, J. A., Picos‐Corrales, L. A., & Licea‐Claverie, A. (2015). PNVCL‐PEGMA nanohydrogels with tailored transition temperature for controlled delivery of 5‐fluorouracil. Journal of Polymer Science Part A: Polymer Chemistry, 53(22), 2662-2672. doi: https://doi.org/10.1002/pola.27766
