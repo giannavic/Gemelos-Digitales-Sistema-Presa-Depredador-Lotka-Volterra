@@ -1,6 +1,5 @@
 # Gemelos-Digitales-Sistema-Presa-Depredador-Lotka-Volterra [Victoria20212527]
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=giannavic/Gemelos-Digitales-Leyes-de-crecimiento-exponencial-Victoria20212527)
-
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)]
 Práctica 2: Sistema Presa Depredador Lotka-Volterra 
 
 ## Autor
