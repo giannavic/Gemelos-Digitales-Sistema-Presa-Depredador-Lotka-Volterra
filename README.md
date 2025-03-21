@@ -1,5 +1,5 @@
 # Gemelos-Digitales-Sistema-Presa-Depredador-Lotka-Volterra [Victoria20212527]
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)]
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=giannavic/Gemelos-Digitales-Sistema-Presa-Depredador-Lotka-Volterra)
 Práctica 2: Sistema Presa Depredador Lotka-Volterra 
 
 ## Autor
@@ -8,13 +8,13 @@ Gianna Victoria Adame
 Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: L20212527@tectijuana.edu.mx
 
 ## Resumen de la práctica
-En esta práctica se implementarán los métodos de Euler y Heun para la solución de ecuaciones diferenciales ordinarias de primer orden, evaluando su precisión en distintos escenarios. Posteriormente, se calculará la tasa de decrecimiento biológico a partir del tiempo de vida media, permitiendo estimar la dinámica de diversos procesos fisiológicos. Asimismo, se ajustará la ecuación de farmacocinética de primer orden utilizando algoritmos de regresión no lineal, con el objetivo de estimar las tasas de liberación de fármacos por nanohidrogeles. Finalmente, se diseñarán protocolos de quimioterapia basados en modelos matemáticos para ilustrar la concentración del imatinib en el compartimento sanguíneo, considerando su absorción tras la ingesta oral. Esta práctica integra herramientas computacionales y matemáticas clave para el modelizado de fenómenos biológicos, contribuyendo al desarrollo de estrategias terapéuticas personalizadas.
+En esta práctica el sistema biológico utilizado es el cáncer colorrectal y la interacción que tiene con la inmunoterapia TCR-T, primeramente se implementarán soluciones de las ecuaciones de Lotka-Volterra para observar su dinámica en series de tiempo y plano de fase. Posteriormente se aplicaran los métodos de Euler y Heun para desarrollar un algoritmo computacional. Aimismo, se calcularán los puntos de equilibrio, la matriz Jacobiana y se analizará la estabilidad local del sistema, posteriormente por medio de funciones ode de matlab se solucionará el sistema en Simulink. Finalmente, por medio del uso de Graph Grabber se formulará el modelo mtemático.
 
 ## Objetivos específicos
-1. Aplicar los métodos de Euler y Heun para la solución de Ecuaciones Diferenciales Ordinarias de primer orden lineales e invariantes en el tiempo.
-2. Calcular las tasas de crecimiento, degradación a partir del tiempo de vida medio biológico.
-3. Ajusta la Ecuación de farmacocinética de primer orden mediante algoritmos de regresión no lineal para la estimación de tasas de liberación de fármaco por nanohidrogeles.
-4. Diseñar protocolos de quimioterapia basados en modelos para ilustrar la dinámica del imatinib en el compartimento sanguíneo cuando se ingiere una dosis de 300 mg/día de este fármaco.
+1. Aplicar el método de Euler y el método de Heun para desarrollar el algoritmo computacional en Matlab y en Spyder del sistema.
+2. Calcular los puntos de equilibrio, la matriz Jacobiana y analizar la estabilidad local del sistema.
+3. Utilizar funciones ode de Matlab para solucionar el sistema en simulink.
+4.  Utilizar Graph Grabber y Eureqa para formular el modelo matemático.
 
 ## Docente
 Dr. Paul A. Valle
