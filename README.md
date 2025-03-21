@@ -23,3 +23,4 @@ Posgrado en Ciencias de la Ingeniería [PCI] y Departamento de Ingeniería Eléc
 
 ## Lecturas
 [1] Paul. A. Valle, Syllabus de Biomatemáticas para la asignatura de Gemelos Digitales, Tecnológico Nacional de México/IT Tijuana, Tijuana, B.C., México, 2025. Permalink: https://www.dropbox.com/s/6yf9afxzih9y458/Biomatematicas.pdf
+[2] S. Maggadottir, S. Dueland, N. Mensali, and H. Hamre, “Transient TCR-based T cell therapy in a patient with advanced treatment-resistant MSI-high colorectal cancer,” Molecular Therapy, vol. 32, no. 6, Jun. 2024.
